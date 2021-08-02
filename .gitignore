@@ -1,0 +1,4 @@
+node_modules
+.next
+template
+.DS_Store
